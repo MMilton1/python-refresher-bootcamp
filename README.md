@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![CI](https://github.com/mmilton1/python-refresher-bootcamp/actions/workflows/python-app.yml/badge.svg)
+
 
 ---
 
